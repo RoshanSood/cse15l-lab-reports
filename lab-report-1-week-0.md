@@ -5,7 +5,7 @@
 
  ## Part 1- Installing VSCode
 
-Go to  https://code.visualstudio.com/download
+Go to  [VSCode](https://code.visualstudio.com/download)
 to download the applicatiion
 
 
@@ -15,7 +15,7 @@ It should look like this when you install
 
 ## Part 2- Connecting to SSH
 
-* Install OpenSSH on https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui
+* Install OpenSSH on  [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui)
 
 * Find your username (ex. "cs15lfa22zz") on https://sdacs.ucsd.edu/~icc/index.php by resetting your password
 
@@ -56,7 +56,7 @@ following code
 
 ## Part 5- SSH Keys
 * Run the command "ssh-keygen"
-* Enter a file to save the keys
+* Enter a file to save the keys on a filepath
 * Input a passphrase to save your identification
 
 ![Image](image2.png)
