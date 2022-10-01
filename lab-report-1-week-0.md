@@ -1,7 +1,7 @@
 **Hello!** 
  My name is Roshan Sood and I am a student
  in CSE 15L.
- You can fine my GitHub here at: https://github.com/YeetOnMyFeet
+ You can find my GitHub here at: https://github.com/YeetOnMyFeet
 
  ## Part 1- Installing VSCode
 
@@ -12,6 +12,9 @@ to download the applicatiion
 ![Image](vscode.png)
 
 It should look like this when you install
+
+* This step I simply downloaded VSCode and ran the environment
+* I made sure to set it up for java
 
 ## Part 2- Connecting to SSH
 
