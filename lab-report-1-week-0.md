@@ -8,6 +8,10 @@
 Go to  [VSCode](https://code.visualstudio.com/download)
 to download the applicatiion
 
+VSCode is a code editor used to design and run programs. It features debugging(fixing errors in code), syntax highlighting, and code refactoring for your projects. 
+
+We will use VSCode for connecting to our server and writing commands directly to our server. 
+
 
 ![Image](vscode.png)
 
@@ -29,13 +33,16 @@ with the zz replacing your own letters
 
 ![Image](ssh.png)
 
-## Part 3- Commands
+SSH means Secure Shell and is a command that allows us to connect to our server and send commands + information between computers. We can also transfer data from our local pc to our server.
 
-* cd
-* ls
-* pwd
-* mkdir
-* ls <directory>
+## Part 3- Commands
+These listed commands allow us to manipulate our directory and see our data within our folders
+* cd - navigate forwards through folders
+* ls - ls the current directory
+* pwd - print the current location in the file system
+* mkdir - make a new directory
+<directory>
+
 
 * It should look like this
 
@@ -50,6 +57,7 @@ Logout is simply "exit" in the terminal
 
 * Create a file on your computer named WhereAmI.java with
 following code
+![Image](class1.png)
 * Compile and run using javac and java as directed
 
 ![Image](javac.png)
@@ -59,8 +67,13 @@ following code
 
 ## Part 5- SSH Keys
 * Run the command "ssh-keygen"
+* SSH keygen is used to generate keys in order to link files to your account without having to login with your password
+* Keygen generates keys for you to login with
+* We need it because it makes it easier to login
 * Enter a file to save the keys on a filepath
+* -The file is your own file you created to save the keys
 * Input a passphrase to save your identification
+* A good practice is to save your passphrase as your file name or something similar to it to easily remember your passphrase
 
 ![Image](image2.png)
 
