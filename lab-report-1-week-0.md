@@ -41,7 +41,7 @@
 
 ![Image](reversedfixed.png)
 
--Connection between bug and sympton
+-Connection between bug and symptom
 * The bug caused the symptom as it placed the filtered values at the front of the list which changed the order. This would add the values to the front, putting the list in the incorrect order and causing the error in the code.  
 
 
