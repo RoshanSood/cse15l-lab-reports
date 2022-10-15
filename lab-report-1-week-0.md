@@ -4,7 +4,7 @@
 ![Image](addone.png)
 * The values to the relevant arguments are add and query because they are within the conditions to check the path. Query is string being added to which querys the lists of strings. Moreover, values like parameters and words are lists created to add values from each input query.
 ![Image](query.png)
-* The values of the request change when you do things like add a word. Once you add a word you can search for it since it is being added to the list. 
+* The values of the request change when you do things like add a word. Once you add a word, you can search for it since it is being added to the list. 
 
 ![Image](addtwo.png)
 
@@ -14,7 +14,7 @@
  ## Part 2- Two Bugs
 
 ### Bug 1: Array Examples- ReversedInPlace
-* - This bug does not reverse the indexes of the array and instead erases the value at the initial index
+* This bug does not reverse the indexes of the array and instead erases the value at the initial index
 
 ![Image](bugone.png)
 
