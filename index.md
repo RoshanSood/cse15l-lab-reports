@@ -3,6 +3,8 @@
  in CSE 15L.
  You can find my GitHub here at: https://github.com/YeetOnMyFeet
 
+ [report](lab-report-1-week-0.md)
+
  ## Part 1- Installing VSCode
 
 Go to  [VSCode](https://code.visualstudio.com/download)
