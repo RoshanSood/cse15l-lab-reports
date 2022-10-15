@@ -53,6 +53,8 @@ Logout is simply "exit" in the terminal
 
 ![Image](exit.png)
 
+
+
 ## Part 4- Moving files with scp
 
 * Create a file on your computer named WhereAmI.java with
@@ -64,6 +66,8 @@ following code
 * To transfer the files using scp you call 
 "scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/"
 * Enter your password
+
+
 
 ## Part 5- SSH Keys
 * Run the command "ssh-keygen"
