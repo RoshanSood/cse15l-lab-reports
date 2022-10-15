@@ -3,7 +3,7 @@
  in CSE 15L.
  You can find my GitHub here at: https://github.com/YeetOnMyFeet
 
- [report](lab-report-1-week-0.md)
+ [Report 2](lab-report-1-week-0.md)
 
  ## Part 1- Installing VSCode
 
@@ -43,7 +43,6 @@ These listed commands allow us to manipulate our directory and see our data with
 * ls - ls the current directory
 * pwd - print the current location in the file system
 * mkdir - make a new directory
-<directory>
 
 
 * It should look like this
