@@ -120,6 +120,7 @@ find technical/911report -ls
 Output: 
 ```
 (image becomes too long)
+
 ![Image](chap6.png)
 ![Image](chap7.png)
 
