@@ -4,6 +4,7 @@
  You can find my GitHub here at: https://github.com/YeetOnMyFeet
 
  [Report 2](lab-report-1-week-0.md)
+ [Report 3](lab-report-1-week-5.md)
 
  ## Part 1- Installing VSCode
 
