@@ -56,6 +56,7 @@ else
     echo Your grade is 0%
     exit 1
 fi
+
 ```
 * Screenshot 1-https://github.com/ucsd-cse15l-f22/list-methods-lab3
 ![Image](test1.png)
