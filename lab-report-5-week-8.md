@@ -1,7 +1,7 @@
 ## Part 1 - grade.sh script(autograder)
 * Our groups autograding script:
 ```
-# Create your grading script here
+Create your grading script here
 
 set -e
 
