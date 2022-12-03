@@ -12,18 +12,24 @@ Before we change anything the code looks like this:
 * Next, to change name to 'base' we use the command
 
 ```
-:%s/name 
-<Enter>
+:
+%
+s
+/
+start
+ <Enter>
 base
 <Enter>
 ```
-* This finds all instances of name and changes it to start
+* The overall purpose of these commands is to find all instances of start in our file and change it to base
 
-* The : and s allows us to highlight the lines we want to change and replace while the % reads the whole file 
+* Specifically, the combination of commands, the : and s allows us to highlight the lines we want to change, which are the lines that only contains start. On the other hand, the % command reads the whole file for 'start' because it is what we aim to replace in our file 
 
-* The /name is the command we want to replace 
+* Next, in order to actually replace start with base, we need to use the / command. This command allows us to type in a string that we want to replace with another string. 
 
-* After we press enter, we need to type in base and enter again to switch all instances of name with base
+* After we type in start, we need to press enter and then type in base and enter again to switch all instances of name with base. This command first takes in what needs to be replaced, then an enter to move to the next part of the command, then the string we want to replace with, and lastly another enter to complete the replace of strings.
+
+* Overall, this command allows us to switch all instances the word start to base in our file.
 
 It should look like this: 
 ![Image](after.png)
